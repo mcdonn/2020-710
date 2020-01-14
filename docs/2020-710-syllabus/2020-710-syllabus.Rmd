@@ -57,7 +57,7 @@ Contemporary language documentation is dedicated to producing a **long-lasting, 
 
 ## Course readings 
 
-The course readings listed in the [course schedule](#course-schedule) can be accessed through Google Drive unless they are already available online. The folder [2020-710](https://drive.google.com/drive/folders/16VKMCJfY4upj8EiKUjbLk-pFXxL7upXZ?usp=sharing) will be shared with the class during the first week of classes.
+The course readings listed in the [course schedule](#course-schedule) can be accessed through [Laulima Resource foler](https://laulima.hawaii.edu/x/gtPBkF) unless they are already available online.
 
 ## Required materials
 
@@ -97,7 +97,7 @@ Students are required to have (or have access to) the following:
 
   1. Participation & reading responses [**20%** ]{style="float:right"}
   
-  * Students are required to be at every class and participate in class discussions of the readings. When readings are assigned, students are required to send two short comments or questions on [Laulima](https://laulima.hawaii.edu/x/2m30JN) about the reading by **8pm the day before the reading is to be discussed**.
+  * Students are required to be at every class and participate in class discussions of the readings. When readings are assigned, students are required to send **two short comments or questions** on the [Laulima forum](https://laulima.hawaii.edu/x/ORMmfQ) about the reading by **8pm the day before the reading is to be discussed**.
 
 2. Assignments [**20%** ]{style="float:right"}
   * There will be several short assignments on the topics being discussed in class.
@@ -109,7 +109,7 @@ Students are required to have (or have access to) the following:
     6. ELAN-FLEx-ELAN import export assignment
     7. ... 
 
-3. Presentations with handout  [**20%** ]{style="float:right"}
+3. Presentations [**20%** ]{style="float:right"}
 
   * Each student will present once a topic listed below: 
       1. Digital data management in language documentation
@@ -169,9 +169,6 @@ Students are required to do *two* mini-presentations. These are short 10 minute 
   * [LingSync](https://www.lingsync.org/)
   * [Kratylos](https://kratylos.org)
 
-<!-- INSERT PRESENTATION TOPICS HERE -->
-
-
 ## Course Policy
   * Attendance in this course is crucial. In order to be successful in the course, you need to attend \textit{every} class and be punctual. That said, if you are sick (and contagious), please do \textsc{not} come to class. Excessive absences or tardiness may result in a grade reduction.
   * Please do *not* text, check email, Facebook, Instagram, Snapchat, etc., or work on anything unrelated to class. It can really be distracting for everyone.
@@ -196,17 +193,18 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
 -->
 
 
-**Week 1 (1/14): Introduction**
+### Week 1 (1/14): Introduction
   
   * **Reading:** @bird2003seven, @arkhipov2018reflections
+  * **Class activity:** 
     
-**Week 2 (1/21): Overview of data management & IRB**
+### Week 2 (1/21): Overview of data management & IRB
 
-  * **Readings:** @thieberger2012linguistic; @coxtoappearmanaging, @bowern2010fieldwork;  @bowern2015linguistic [: Section 12.4, p. 197--203]
+  * **Readings:** @thieberger2012linguistic, @coxtoappearmanaging, @bowern2010fieldwork, @bowern2015linguistic [: Section 12.4, p. 197--203]
   * **Assignments:** [Download required software](#required-materials)
   * **Additional readings:** @salffner2015guide, @robinson2010informed, @bowern2015linguistic [: ch. 11], @dipersio2014linguistic, @vandriem2016endangered
 
-**Week 3 (1/28): Archiving \& metadata** 
+### Week 3 (1/28): Archiving \& metadata
   
   * **Readings:** @good2011data [: section 11.5], @bowern2015linguistic [: section 4.5]
     - [A website is not an archive!](http://www.paradisec.org.au/blog/2017/11/a-website-is-not-an-archive/)
@@ -217,36 +215,42 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
   * **Assignments:** [CITI certificate training](https://www.hawaii.edu/researchcompliance/get-training-0) Click on the link and follow the steps. Under step 6, follow instructions for ***"Non-Exempt Social or Behavioral Sciences Research"***.
   * **Additional readings:** @burnard2005metadata, @thieberger2015paradisec
   
-**Week 4 (2/4): Audio Recording**
+### Week 4 (2/4): Audio Recording
   
   * **Readings:** @margetts2011audio [: p. 13-32], @artis2014shut [: p. 183-216]
   * **Assignment:** Metadata assignment: Spreadsheet vs SayMore X
   * **Additional readings:** @nathan2008minding [: section 4], @bowern2015linguistic [: section 2.2]
     
-**Week 5 (2/11): (away) Video Recording**
+### Week 5 (2/11): Video Recording
+
+> I will be in Indonesia. Leah Pappas will be teaching.
 
   * **Readings:** @seyfeddinipur2011reasons [: section 6.4], @artis2014shut [: p. 35-83, 113-182]
   * **Assignment:** Group audio recording assignment
   * **Additional readings:** @dimmendaal2010language [: p. 33-53] and @margetts2011audio
     
-**Week 6 (2/18): (away) Video conversion**
+### Week 6 (2/18): Video conversion 
+
+> I will be in Indonesia. Leah Pappas will be teaching.
     
   * **Readings:** [ELAR video conversion handout](https://www.soas.ac.uk/elar/helpsheets/file120820.pdf)
   * **Assignment:** Group video recording assignment
     
-**Week 7 (2/25): (away) ELAN**
+### Week 7 (2/25): ELAN I
+
+> I will be in Indonesia. Chistina Truong will be teaching.
   
-  * **Readings:** @berez2007review, 
+  * **Readings:** @berez2007review
   * **Assignment:** Combining audio and video recording assignment ELAN Assignment
   * **Additional readings:**
     
-**Week 8 (3/3): ELAN**
+### Week 8 (3/3): ELAN II
 
   * **Readings:** @schultze-berndt2006linguistic
   * **Assignment:**
   * **Additional readings:**
 
-**Week 9 (3/10): FLEx**
+### Week 9 (3/10): FLEx I
 
   * **Readings:** [Online training modules](https://vimeo.com/channels/fieldworks)
   * **Assignment:** FLEx assignment
@@ -254,46 +258,46 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
 
 **SPRING BREAK (3/17): NO CLASS**
 
-**Week 10 (3/24): FLEx-ELAN**
+### Week 10 (3/24): FLEx II
 
-  * **Readings:** @bow2003general, [Leipzig Glossing Rules](http://www.eva.mpg.de/lingua/resources/glossing-rules.php), [Working with ELAN and FLEx together](https://www.soas.ac.uk/elar/helpsheets/file122785.pdf)
-  * **Assignment:** ELAN FLEx import export assignment
+  * **Readings:** @bow2003general, [Leipzig Glossing Rules](http://www.eva.mpg.de/lingua/resources/glossing-rules.php)
+  * **Assignment:** 
   * **Additional readings:**
 
-**Week 11 (3/31): FLEx-ELAN**
+### Week 11 (3/31): FLEx-ELAN
 
-  * **Readings:** [Working with ELAN and FLEx together (Handout #1)](https://www.soas.ac.uk/elar/helpsheets/file122785.pdf), [Working with ELAN and FLEx together (Handout #2)](https://www.soas.ac.uk/elar/helpsheets/file122785.pdf)
+  * **Readings:** [Working with ELAN and FLEx together (Handout #1)](https://www.soas.ac.uk/elar/helpsheets/file122785.pdf)
   * **Assignment:**
   * **Additional readings:**
 
-**Week 12 (4/7): Transcription (Level 1)**
+### Week 12 (4/7): Transcription (Level 1)
 
   * **Readings:** @himmelmann2006prosody, @himmelmann2018meeting, @dubois1992discourse [: ch. 1, 4-6, 10] (Introduction, Units, Speakers, Transitional Continuity, Pause)
-  * **Assignment:** Transcribe two minutes of conversation up to level 1. Be ready to share/discuss excerpt!
+  * **Assignment:** ELAN FLEx import export assignment
   * **Additional readings:**
 
-**Week 13 (4/14): Transcription (Level 2)**
+### Week 13 (4/14): Transcription (Level 2)
 
   * **Readings:** @dubois1992discourse [: ch. 11-12], Du Bois handouts (Vocal Noises, Quality)
-  * **Assignment:** Enrich two minutes of conversation up to level 2. Be ready to share/discuss excerpt!
+  * **Assignment:** Transcribe two minutes of conversation up to level 1. Be ready to share/discuss excerpt!
   * **Additional readings:** @dingemanse2014conversation
   
-**Week 14 (4/21): Transcription (Level 3)**
+### Week 14 (4/21): Transcription (Level 3)
 
   * **Readings:** @dubois1992discourse [: ch. 17], Du Bois handouts (Spelling)
-  * **Assignment:** Enrich two minutes of conversation up to level 3 and upload to Google Drive.  
+  * **Assignment:** Enrich two minutes of conversation up to level 2. Be ready to share/discuss excerpt! 
   * **Additional readings:**
 
       <!-- * R 4/19: Du Bois handouts % Watch mini-lectures on RR <https://www.coursera.org/learn/reproducible-research/lecture/wdGXb/introduction}, Berez et al. (2018) %Data citation and attribution -->
 
-**Week 15 (4/28): Searching in ELAN & FLEx**
+### Week 15 (4/28): Searching in ELAN & FLEx
 
   * **Readings:** Searching an ELAN corpus (no readings)
-  * **Assignment:**
+  * **Assignment:** Enrich two minutes of conversation up to level 3 and upload to Google Drive. 
   * **Additional readings:**
   
-**Week 16 (5/5): Course review & Final Presentations**
+### Week 16 (5/5): Course review & Final Presentations
   
   * Documentation Enrichment Project final presentation    
 
-## References
+## Readings
