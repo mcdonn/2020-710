@@ -185,7 +185,7 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
 ### Week 1 (1/14): Introduction
   
   * **Reading:** @bird2003seven, @arkhipov2018reflections
-  * **Class activities:** Technology in Lang Doc ([slides](https://mcdonn.github.io/2020-710/slides-handouts/1-bird-simmons-2003/1-bird-simmons-2003.html),  [handout](https://github.com/mcdonn/2020-710/blob/master/docs/handouts/1-dixon-2010-technology/1-dixon-2010-technology.pdf)), [Seven dimensions of Lang Doc](https://github.com/mcdonn/2020-710/blob/master/docs/handouts/1-bird-simmons-2003/1-bird-simmons-2003.pdf) 
+  * **Class activities:** [Technology in Lang Doc](https://github.com/mcdonn/2020-710/blob/master/docs/slides-handouts/1-dixon-2010-technology/1-dixon-2010-technology.pdf), Seven dimensions of Lang Doc ([slides](https://mcdonn.github.io/2020-710/slides-handouts/1-bird-simmons-2003/1-bird-simmons-2003.html),  [handout](https://github.com/mcdonn/2020-710/blob/master/docs/slides-handouts/1-dixon-2010-technology/1-dixon-2010-technology.pdf)),
     
 ### Week 2 (1/21): Overview of data management & IRB
 
