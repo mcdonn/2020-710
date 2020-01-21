@@ -190,6 +190,7 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
 ### Week 2 (1/21): Overview of data management & IRB
 
   * **Readings:** @thieberger2012linguistic, @coxtoappearmanaging, @bowern2010fieldwork, @bowern2015linguistic [: Section 12.4, p. 197--203]
+  * **Class activities:** [Slides](https://mcdonn.github.io/2020-710/slides-handouts/2-data-management/2-data-management.html)
   * **Assignments:** [Download required software](#required-materials)
   * **Additional readings:** @salffner2015guide, @robinson2010informed, @bowern2015linguistic [: ch. 11], @dipersio2014linguistic, @vandriem2016endangered
   
