@@ -107,7 +107,8 @@ Students are required to have (or have access to) the following:
     4. FLEx lexicon assignment
     5. FLEx glossing assignment
     6. ELAN-FLEx-ELAN import export assignment
-    7. ... 
+    7. Data management plan
+    8. ...
 
 3. Presentations [**20%** ]{style="float:right"}
 
@@ -122,7 +123,7 @@ Students are required to have (or have access to) the following:
       * The audio and video will be synced, edited and exported for transcription in ELAN. 
   * Students will transcribe a small portion of the recording using Discourse Transcription [@dubois1993outline].
   
-5. Documentation enrichment project [**25%** ]{style="float:right"}
+5. Documentation enrichment project [**20%** ]{style="float:right"}
 
   * Enrich a portion of either the documentation of Besemah or Nasal. In week 8 of the semester students will begin meeting with me to discuss the areas of the documentation project on which they would like to work. The goal of this project is to give student hands on experience working with documentary materials, using the technical skills that they have learned in this class. Possible projects include the following:
     
