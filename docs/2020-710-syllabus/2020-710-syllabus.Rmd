@@ -86,6 +86,17 @@ Students are required to have (or have access to) the following:
 
 [^1]: Please do *not* download the latest version. For Linux users, please follow [these instructions](http://packages.sil.org/). For students who plan to run an emulater on Mac, please see me in the first two weeks of class to discuss the different options. 
 
+### Instructions for downloading FLEx on virtual machine
+
+Follow the steps provided on these websites in this order: 
+
+  1. Download Ubuntu 16.04.4 [here](https://www.ubuntu.com/download/desktop). Don't do anything else, just have it downloaded before step 2.
+  2. Download Virtual Box for OS X [here](https://www.virtualbox.org/wiki/Downloads).[^1] Follow all instructions closely [here](https://web.archive.org/web/20160819084623/https://linus.nci.nih.gov/bdge/installUbuntu.html), all the way to the bottom of the page.
+  3. I noticed that Ubuntu was running very, very slowly. So follow the instructions [here](https://thomas.vanhoutte.be/miniblog/guide-speed-up-ubuntu-virtualbox/) to speed it up and make it actually useful. 
+  4. Follow instructions [here](http://packages.sil.org/) to install FLEx (aka: Fieldworks). Note: Follow instructions carefully and read all of the dialogue boxes. It can be a bit tricky. 
+
+[^1]: Apparently, Virtual Box can be very slow at first but improves after you restart your computer several times. 
+
 <!-- %    \item Adobe Premiere Pro CC 2018 -->
 <!-- %      \begin{itemize} -->
 <!-- %        \item The video editing software can be purchased as a subscription (\$30/month) from \url{www.adobe.com}. -->

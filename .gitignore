@@ -22,3 +22,6 @@
 
 # SyncTeX
 *.synctex.gz
+
+# Folders
+metadata-activity/
