@@ -326,12 +326,15 @@ When in doubt choose...
 ---
 
 # Monitor recordings
-
+.pull-left[
 ![alt text](monitoring.png)
+]
+
+.pull-right[
 - Monitor recordings (as much as possible)
   - But *don't* continuously adjust sound levels
   - It's okay to peak when sound is loud
-
+]
 
 ---
 
@@ -558,14 +561,13 @@ Solid state recorders with XLR inputs:
 ---
 
 # Basic audio setup
-<!--
-   - [Zoom H4n $299](https://www.bhphotovideo.com/c/product/1253811-REG/zoom_h4npro_4_channel_handy_recorder.html?sts=pi)
-   -->
-    - [Tascam DR100MKIII $399](https://www.bhphotovideo.com/c/product/1263849-REG/tascam_dr_100mkiii_linear_pcm_recorder.html)
-   - [Audio-Technica Stereo Microphone $249 ](https://www.bhphotovideo.com/c/product/761016-REG/Audio_Technica_AT2022_AT2022_X_Y_Stereo_Microphone.html)
-   - [Stereo XLR cable $24.95](https://www.bhphotovideo.com/c/product/994801-REG/rode_nt4_dxlr_cable_5_pin_stereo_xlr_cable.html)
-   - [Panasonic eneloop pro charger & batteries $52.99](https://www.bhphotovideo.com/c/product/1258154-REG/panasonic_k_kj17khc82a_eneloop_pro_high_capacity.html)
-   - [2 - SanDisk 16GB $21.94](https://www.bhphotovideo.com/c/product/1182600-REG/sandisk_sdsdxne_016g_gnci2_extreme_16gb_sdhc_u3.html)
-   - [Sony closed-back headphones $79.99](https://www.bhphotovideo.com/c/product/49510-REG/Sony_MDR_7506_MDR_7506_Headphone.html?sts=pi)
+<!-- [Zoom H4n $299](https://www.bhphotovideo.com/c/product/1253811-REG/zoom_h4npro_4_channel_handy_recorder.html?sts=pi) -->
+  
+  - [Tascam DR100MKIII $399](https://www.bhphotovideo.com/c/product/1263849-REG/tascam_dr_100mkiii_linear_pcm_recorder.html)
+  - [Audio-Technica Stereo Microphone $249 ](https://www.bhphotovideo.com/c/product/761016-REG/Audio_Technica_AT2022_AT2022_X_Y_Stereo_Microphone.html)
+  - [Stereo XLR cable $24.95](https://www.bhphotovideo.com/c/product/994801-REG/rode_nt4_dxlr_cable_5_pin_stereo_xlr_cable.html)
+  - [Panasonic eneloop pro charger & batteries $52.99](https://www.bhphotovideo.com/c/product/1258154-REG/panasonic_k_kj17khc82a_eneloop_pro_high_capacity.html)
+  - [(2) SanDisk 16GB $21.94](https://www.bhphotovideo.com/c/product/1182600-REG/sandisk_sdsdxne_016g_gnci2_extreme_16gb_sdhc_u3.html)
+  - [Sony closed-back headphones $79.99](https://www.bhphotovideo.com/c/product/49510-REG/Sony_MDR_7506_MDR_7506_Headphone.html?sts=pi)
    
    **Total = 827.87**
