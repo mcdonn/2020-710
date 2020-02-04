@@ -222,9 +222,11 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
 ### Week 4 (2/4): Audio Recording
   
   * **Readings:** @margetts2011audio [: p. 13-32], @artis2014shut [: p. 183-216]
+  * **Class activities:** ([Slides](https://mcdonn.github.io/2020-710/slides-handouts/4-audio-recording/4-audio-slides.html)
+    
   * **Assignment:** Metadata assignment: Spreadsheet vs SayMore X
   * **Additional readings:** @nathan2008minding [: section 4], @bowern2015linguistic [: section 2.2]
-    
+  
 ### Week 5 (2/11): Video Recording
 
 > I will be in Indonesia. Leah Pappas will be teaching.
