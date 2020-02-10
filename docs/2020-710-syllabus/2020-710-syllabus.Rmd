@@ -222,7 +222,7 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
 ### Week 4 (2/4): Audio Recording
   
   * **Readings:** @margetts2011audio [: p. 13-32], @artis2014shut [: p. 183-216]
-  * **Class activities:** ([Slides](https://mcdonn.github.io/2020-710/slides-handouts/4-audio-recording/4-audio-slides.html)
+  * **Class activities:** ([Slides](https://mcdonn.github.io/2020-710/slides-handouts/4-audio-recording/4-audio-slides.html))
     
   * **Assignment:** Metadata assignment: Spreadsheet vs SayMore X
   * **Additional readings:** @nathan2008minding [: section 4], @bowern2015linguistic [: section 2.2]
@@ -232,6 +232,9 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
 > I will be in Indonesia. Leah Pappas will be teaching.
 
   * **Readings:** @seyfeddinipur2011reasons [: section 6.4], @artis2014shut [: p. 35-83, 113-182]
+  * **Class activities:** 
+    - Share audio recordings and experiences
+    - [Slides](https://mcdonn.github.io/2020-710/slides-handouts/5-video-recording/5-video-recording.html)
   * **Assignment:** Group audio recording assignment
   * **Additional readings:** @dimmendaal2010language [: p. 33-53] and @margetts2011audio
     
@@ -239,15 +242,26 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
 
 > I will be in Indonesia. Leah Pappas will be teaching.
     
-  * **Readings:** [ELAR video conversion handout](https://www.soas.ac.uk/elar/helpsheets/file120820.pdf)
+  * **Readings:** Read over [ELAR video conversion handout](https://www.soas.ac.uk/elar/helpsheets/file120820.pdf) to get an ideo of how complex video conversion can be
+  * **Class activities:** (
+  [slides](), [practice]()
+  )
   * **Assignment:** Group video recording assignment
 
 ### Week 7 (2/25): FLEx I
 
 > I will be in Indonesia. Chistina Truong will be teaching.
 
-  * **Readings:** [Online training modules](https://vimeo.com/channels/fieldworks)
-  * **Assignment:** FLEx assignment
+  * **Readings:** Selected [online training modules](https://vimeo.com/channels/fieldworks) below:
+    - [Quick tour of Fieldworks Language Explorer, FLEx](https://vimeo.com/channels/fieldworks/111419885)
+    - [Understand the layout of panes in Fieldworks Language Explorer, FLEx](https://vimeo.com/channels/fieldworks/111419886)
+    - [Learn how to configure columns in a browse view in Fieldworks Language Explorer, FLEx](https://vimeo.com/channels/fieldworks/111419888)
+    - [Learn how to apply filters to data in FieldWorks Language Explorer, FLEx](https://vimeo.com/channels/fieldworks/111419890)
+    - [Learn options for sorting data in FieldWorks Language Explorer, FLEx](https://vimeo.com/channels/fieldworks/111421269)
+    - [Learn how to show and hide hidden fields in FLEx (FieldWorks Language Explorer) and how to control which fields are shown normally.](https://vimeo.com/channels/fieldworks/111421271)
+    - [Learn how to add a new lexical entry in FLEx](https://vimeo.com/channels/fieldworks/111522254)
+    - [How to add allomorphs to entries in FLEx](https://vimeo.com/channels/fieldworks/116264100)
+  * **Assignment:** Bring a dictionary of a language that uses a Latin script
   * **Additional readings:**    
     
 ### Week 8 (3/3): FLEx II
