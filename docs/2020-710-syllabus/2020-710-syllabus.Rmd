@@ -243,9 +243,7 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
 > I will be in Indonesia. Leah Pappas will be teaching.
     
   * **Readings:** Read over [ELAR video conversion handout](https://www.soas.ac.uk/elar/helpsheets/file120820.pdf) to get an ideo of how complex video conversion can be
-  * **Class activities:** (
-  [slides](https://mcdonn.github.io/2020-710/slides-handouts/6-video-editing/6-video-editing.html), [practice](https://github.com/mcdonn/2020-710/blob/master/docs/slides-handouts/6-video-editing/practice.md)
-  )
+  * **Class activities:** ([slides](https://mcdonn.github.io/2020-710/slides-handouts/6-video-editing/6-video-editing.html), [practice](https://github.com/mcdonn/2020-710/blob/master/docs/slides-handouts/6-video-editing/practice.md))
   * **Assignment:** Group video recording assignment
 
 ### Week 7 (2/25): FLEx I
