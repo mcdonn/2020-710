@@ -260,6 +260,7 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
     - [Learn how to add a new lexical entry in FLEx](https://vimeo.com/channels/fieldworks/111522254)
     - [How to add allomorphs to entries in FLEx](https://vimeo.com/channels/fieldworks/116264100)
   * **Assignment:** Bring a dictionary of a language that uses a Latin script
+  * **Class activities:** [handout](https://github.com/mcdonn/2020-710/blob/master/docs/slides-handouts/7-flex/7-flex-intro.pdf)
   * **Additional readings:**    
     
 ### Week 8 (3/3): FLEx II
@@ -267,6 +268,12 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
   * **Readings:** @bow2003general, [Leipzig Glossing Rules](http://www.eva.mpg.de/lingua/resources/glossing-rules.php)
   * **Assignment:** 
   * **Additional readings:**
+  * **Class activities:** 
+    - [FLEx activities](https://lingtran.net/FLEx+8)
+      - Lexicon Edit 3
+      - Interlinearization
+      - Parsing & Concordance
+    - [Slides](https://mcdonn.github.io/2020-710/slides-handouts/7-flex/7-training-indonesia.html)
 
 ### Week 9 (3/10): ELAN I
 
@@ -312,7 +319,7 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
 
   * **Readings:** Searching an ELAN corpus (no readings)
   * **Assignment:** Enrich two minutes of conversation up to level 3 and upload to Google Drive. 
-  * **Additional readings:**
+  * **Additional readings:** 
   
 ### Week 16 (5/5): Course review & Final Presentations
   
