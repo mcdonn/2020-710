@@ -278,8 +278,8 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
 ### Week 9 (3/10): ELAN I
 
   * **Readings:** @berez2007review
-  * **Assignment:** Combining audio and video recording assignment ELAN Assignment
-  * **Additional readings:**
+  * **Assignment:** FLEx Assignment
+  * **Additional readings:** 
 
 **SPRING BREAK (3/17): NO CLASS**
 
@@ -292,7 +292,7 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
 ### Week 11 (3/31): FLEx-ELAN
 
   * **Readings:** [Working with ELAN and FLEx together (Handout #1)](https://www.soas.ac.uk/elar/helpsheets/file122785.pdf)
-  * **Assignment:**
+  * **Assignment:** [Audiovisual Recording Assignment](https://github.com/mcdonn/2020-710/blob/master/docs/slides-handouts/11-audiovisual-recording-assignment/11-audiovisual-recording-assignment.pdf)
   * **Additional readings:**
 
 ### Week 12 (4/7): Transcription (Level 1)
