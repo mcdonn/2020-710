@@ -285,7 +285,7 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
 
 ### Week 10 (3/24): ELAN II
 
-  * **Readings:** @schultze-berndt2006linguistic
+  * **Readings:** no readings
   * **Assignment:**
   * **Additional readings:**
 
@@ -304,21 +304,21 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
 ### Week 13 (4/14): Transcription (Level 2)
 
   * **Readings:** @dubois1992discourse [: ch. 11-12], Du Bois handouts (Vocal Noises, Quality)
-  * **Assignment:** Transcribe two minutes of conversation up to level 1. Be ready to share/discuss excerpt!
+  * **Assignment:** Transcribe three minutes of conversation up to level 1. Be ready to share/discuss excerpt!
   * **Additional readings:** @dingemanse2014conversation
   
 ### Week 14 (4/21): Transcription (Level 3)
 
   * **Readings:** @dubois1992discourse [: ch. 17], Du Bois handouts (Spelling)
-  * **Assignment:** Enrich two minutes of conversation up to level 2. Be ready to share/discuss excerpt! 
+  * **Assignment:** Enrich three minutes of conversation up to level 2. Be ready to share/discuss excerpt! 
   * **Additional readings:**
 
       <!-- * R 4/19: Du Bois handouts % Watch mini-lectures on RR <https://www.coursera.org/learn/reproducible-research/lecture/wdGXb/introduction}, Berez et al. (2018) %Data citation and attribution -->
 
-### Week 15 (4/28): Searching in ELAN & FLEx
+### Week 15 (4/28): Transcription, annotation, and searching
 
-  * **Readings:** Searching an ELAN corpus (no readings)
-  * **Assignment:** Enrich two minutes of conversation up to level 3 and upload to Google Drive. 
+  * **Readings:** @schultze-berndt2006linguistic, McDonnell (in revision)
+  * **Assignment:** Enrich three minutes of conversation up to level 3 and upload to Laulima. 
   * **Additional readings:** 
   
 ### Week 16 (5/5): Course review & Final Presentations
