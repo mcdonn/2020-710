@@ -300,7 +300,8 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
   * **Readings:** @himmelmann2006prosody, @himmelmann2018meeting, @dubois1992discourse [: ch. 1, 4-6, 10] (Introduction, Units, Speakers, Transitional Continuity, Pause)
   * **Assignment:** ELAN FLEx import export assignment
   * **Additional readings:**
-
+  * **Class activities:** [slides](https://mcdonn.github.io/2020-710/slides-handouts/12-dt-intro-units/1-dt-intro/1-dt-intro.html)
+  
 ### Week 13 (4/14): Transcription (Level 2)
 
   * **Readings:** @dubois1992discourse [: ch. 11-12], Du Bois handouts (Vocal Noises, Quality)

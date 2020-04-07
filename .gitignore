@@ -25,3 +25,8 @@
 
 # Folders
 metadata-activity/
+
+# Media files
+*.mp4
+*.wav
+*.mp3
