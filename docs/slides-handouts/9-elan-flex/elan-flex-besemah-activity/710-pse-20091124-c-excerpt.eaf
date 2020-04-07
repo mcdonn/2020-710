@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-03-31T21:47:19-10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/bjm/Documents/Scholarships/ELDP/ELDP_Training_2015/ELDP Training 2015 - Teaching sets/ELAN-FLEx-ELAN/ELAN-FLEx-ELAN-2014-07-22/PSE_Conversation_Test/PSE-20091124-C_14406_38732.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../../../../../Scholarships/ELDP/ELDP_Training_2015/ELDP Training 2015 - Teaching sets/ELAN-FLEx-ELAN/ELAN-FLEx-ELAN-2014-07-22/PSE_Conversation_Test/PSE-20091124-C_14406_38732.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5073d613-95bd-441e-8aa7-271e4cde2a0d</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">318</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1991"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="3978"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4064"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="4466"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="4812"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="5500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="5642"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="6630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="7794"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="8636"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="9147"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="9984"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="10288"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="10806"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="10806"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="12375"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="12611"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="12738"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="13482"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="13728"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="15210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="16432"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="16568"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="17096"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="17310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="18362"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="19468"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="19618"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="20388"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="20468"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="20606"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="21231"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="21231"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="21857"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="22706"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="23408"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="23718"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="24310"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Text" TIER_ID="Interlinear-title-pse">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Catching up.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Phrases" PARTICIPANT="A" TIER_ID="A_Transcription-txt-pse">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a146" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>tape gawih kabah di situ Tih?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>anu.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a152" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>kabah milu ke situ?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a156" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>ame ke kebun tu.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a160" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>au.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a161" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>laki sughang begawih?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a164" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>tuape digawih?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Phrases" PARTICIPANT="B" TIER_ID="B_Transcription-txt-pse">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a166" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>banyak.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a167" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>kebun,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a243" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>dide,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a168" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>kami tinggal ngaghi Gitah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a173" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>di dusun.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a175" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>mhmm.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a176" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>ngepak pule die mak ini.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a181" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>ngepak ke Tanjung,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a246" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>lah due malam,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a184" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>die dide balik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a190" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>bambang.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Phrases" PARTICIPANT="C" TIER_ID="C_Transcription-txt-pse">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a191" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>tuape anukahnye tu?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Translations" PARENT_REF="A_Transcription-txt-pse" PARTICIPANT="A" TIER_ID="A_Translation-gls-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a146">
+                <ANNOTATION_VALUE>what are you doing over there Tih? (Lit. What is your work there, Tih?)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a193" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>umm.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a152">
+                <ANNOTATION_VALUE>you are joining (your husband) there?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a156">
+                <ANNOTATION_VALUE>If [you all] (are going) to the field.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a160">
+                <ANNOTATION_VALUE>yeah.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a197" ANNOTATION_REF="a161">
+                <ANNOTATION_VALUE>(your) husband works alone?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a164">
+                <ANNOTATION_VALUE>what is being done (lit. worked) (exactly) (by Rili's husband)?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Translations" PARENT_REF="A_Transcription-txt-pse" PARTICIPANT="A" TIER_ID="A_Translation-gls-id">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a199" ANNOTATION_REF="a146">
+                <ANNOTATION_VALUE>apa yang kamu kerjakan di sana Tih?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>anu.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a201" ANNOTATION_REF="a152">
+                <ANNOTATION_VALUE>kamu ikut ke sana?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a156">
+                <ANNOTATION_VALUE>kalau [kalian] (pergi) ke kebun.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a203" ANNOTATION_REF="a160">
+                <ANNOTATION_VALUE>ya.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a161">
+                <ANNOTATION_VALUE>suami (kamu) berkerja sendirian?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a164">
+                <ANNOTATION_VALUE>apa yang dikerjakan?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Translations" PARENT_REF="B_Transcription-txt-pse" PARTICIPANT="B" TIER_ID="B_Translation-gls-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a166">
+                <ANNOTATION_VALUE>[my work] (is) a lot.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a207" ANNOTATION_REF="a167">
+                <ANNOTATION_VALUE>[we] (go to) the field.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a244" ANNOTATION_REF="a243">
+                <ANNOTATION_VALUE>no,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a168">
+                <ANNOTATION_VALUE>saya dengan Gitah tinggal di rumah.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a209" ANNOTATION_REF="a173">
+                <ANNOTATION_VALUE>in the village.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a175">
+                <ANNOTATION_VALUE>mhmm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a211" ANNOTATION_REF="a176">
+                <ANNOTATION_VALUE>he is also packing [stuff] right now.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a181">
+                <ANNOTATION_VALUE>[he] is packing [stuff] (and sending it) to Tanjung (Sakti).</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a247" ANNOTATION_REF="a246">
+                <ANNOTATION_VALUE>for two nights,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a213" ANNOTATION_REF="a184">
+                <ANNOTATION_VALUE>he didn't return.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a214" ANNOTATION_REF="a190">
+                <ANNOTATION_VALUE>bambang (plants).</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Translations" PARENT_REF="B_Transcription-txt-pse" PARTICIPANT="B" TIER_ID="B_Translation-gls-id">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a166">
+                <ANNOTATION_VALUE>[kerjaan saya] banyak.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a167">
+                <ANNOTATION_VALUE>[kami] (pergi ke) kebun.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a245" ANNOTATION_REF="a243">
+                <ANNOTATION_VALUE>tidak,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a217" ANNOTATION_REF="a168">
+                <ANNOTATION_VALUE>Gitah and I stay (home) (Lit. We stay with Gitah).</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a218" ANNOTATION_REF="a173">
+                <ANNOTATION_VALUE>di desa.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a219" ANNOTATION_REF="a175">
+                <ANNOTATION_VALUE>iya.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a220" ANNOTATION_REF="a176">
+                <ANNOTATION_VALUE>dia sekarang memasok [barang] juga.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a221" ANNOTATION_REF="a181">
+                <ANNOTATION_VALUE>[dia] memasok [bibitnya] ke Tanjung (Sakti),</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a248" ANNOTATION_REF="a246">
+                <ANNOTATION_VALUE>sudah dua malam,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a222" ANNOTATION_REF="a184">
+                <ANNOTATION_VALUE>dia tidak pulang.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a223" ANNOTATION_REF="a190">
+                <ANNOTATION_VALUE>bambang.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Translations" PARENT_REF="C_Transcription-txt-pse" PARTICIPANT="C" TIER_ID="C_Translation-gls-en">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a224" ANNOTATION_REF="a191">
+                <ANNOTATION_VALUE>what did he whatchamacallit (i.e., bring)?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Translations" PARENT_REF="C_Transcription-txt-pse" PARTICIPANT="C" TIER_ID="C_Translation-gls-id">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a225" ANNOTATION_REF="a191">
+                <ANNOTATION_VALUE>apa dianukannya (dibawanya)?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Translations" PARENT_REF="A_Transcription-txt-pse" PARTICIPANT="A" TIER_ID="A_Translation-Name-pse">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a300" ANNOTATION_REF="a146">
+                <ANNOTATION_VALUE>Dewi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a301" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>Dewi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a302" ANNOTATION_REF="a152">
+                <ANNOTATION_VALUE>Dewi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a303" ANNOTATION_REF="a156">
+                <ANNOTATION_VALUE>Dewi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a304" ANNOTATION_REF="a160">
+                <ANNOTATION_VALUE>Dewi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a305" ANNOTATION_REF="a161">
+                <ANNOTATION_VALUE>Dewi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a306" ANNOTATION_REF="a164">
+                <ANNOTATION_VALUE>Dewi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Translations" PARENT_REF="B_Transcription-txt-pse" PARTICIPANT="B" TIER_ID="B_Tranlsation-Name-pse">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a307" ANNOTATION_REF="a166">
+                <ANNOTATION_VALUE>Rili</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a308" ANNOTATION_REF="a167">
+                <ANNOTATION_VALUE>Rili</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a309" ANNOTATION_REF="a243">
+                <ANNOTATION_VALUE>Rili</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a310" ANNOTATION_REF="a168">
+                <ANNOTATION_VALUE>Rili</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a311" ANNOTATION_REF="a173">
+                <ANNOTATION_VALUE>Rili</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a312" ANNOTATION_REF="a175">
+                <ANNOTATION_VALUE>Rili</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a313" ANNOTATION_REF="a176">
+                <ANNOTATION_VALUE>Rili</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a314" ANNOTATION_REF="a181">
+                <ANNOTATION_VALUE>Rili</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a315" ANNOTATION_REF="a246">
+                <ANNOTATION_VALUE>Rili</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a316" ANNOTATION_REF="a184">
+                <ANNOTATION_VALUE>Rili</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a317" ANNOTATION_REF="a190">
+                <ANNOTATION_VALUE>Rili</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Translations" PARENT_REF="C_Transcription-txt-pse" PARTICIPANT="C" TIER_ID="C_Translation-Name-pse">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a318" ANNOTATION_REF="a191">
+                <ANNOTATION_VALUE>Jamisah</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Text" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Words" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Translations" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Phrases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Notes" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
