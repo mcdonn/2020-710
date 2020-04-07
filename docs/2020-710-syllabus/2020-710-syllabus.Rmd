@@ -305,7 +305,9 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
 ### Week 13 (4/14): Transcription (Level 2)
 
   * **Readings:** @dubois1992discourse [: ch. 11-12], Du Bois handouts (Vocal Noises, Quality)
-  * **Assignment:** Transcribe three minutes of conversation up to level 1. Be ready to share/discuss excerpt!
+  * **Assignment:** 
+    * Complete DT take-home task.
+    * Transcribe three minutes of conversation up to level 1. Be ready to share/discuss excerpt!
   * **Additional readings:** @dingemanse2014conversation
   
 ### Week 14 (4/21): Transcription (Level 3)
