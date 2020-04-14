@@ -309,7 +309,7 @@ The ***tentative*** course schedule roughly follows the order (i) preparation, (
     * Complete DT take-home task.
     * Transcribe three minutes of conversation up to level 1. Be ready to share/discuss excerpt!
   * **Additional readings:** @dingemanse2014conversation
-  * **Class activities:** [slides](https://mcdonn.github.io/2020-710/slides-handouts/13-dt-trans-cont-pause-overlap-truncation/3-transitional-continuity-slides.pdf)
+  * **Class activities:** [slides](https://mcdonn.github.io/2020-710/slides-handouts/13-dt-trans-cont-pause-overlap-truncation/3-transitional-continuity/3-transitional-continuity-slides.pdf)
   
 ### Week 14 (4/21): Transcription (Level 3)
 
