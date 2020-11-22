@@ -1,7 +1,7 @@
 ---
 title: "Video editing for language documentation"
 author: "Leah Pappas & Bradley McDonnell"
-date: "2019/07/11 (updated: `r Sys.Date()`)"
+date: "2020/09/30 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     lib_dir: libs

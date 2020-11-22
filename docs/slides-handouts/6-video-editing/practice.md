@@ -3,6 +3,7 @@
 
 ## Step 1: Creating a New Project
 
+
 - Open Adobe Premiere
 - Select `New Project...` on splash screen
 
